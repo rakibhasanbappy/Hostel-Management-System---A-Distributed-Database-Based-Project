@@ -18,6 +18,6 @@ A guest (New Student) can -
 
 A Doctor can –
 - See the vaccine status of the students.
-- Update the vaccine status of a student. I did this project in my distributed database system lab.
+- Update the vaccine status of a student.
 
-There are not many functionalities available in this project. I just tried to implement the idea of distributed database.
+I did this project in my distributed database system lab. There are not many functionalities available in this project. I just tried to implement the idea of distributed database.
